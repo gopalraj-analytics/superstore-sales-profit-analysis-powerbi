@@ -72,4 +72,4 @@ Adopting these recommendations can improve annual profitability by **12–18%**,
 
 📌 *To explore the dashboard, download the `.pbix` file and open in Power BI Desktop.*
 
-![Dashboard Preview](Superstore Sales & Profit Analysis Dashboard.mp4)
+![Dashboard Preview](Superstore Sales & Profit Analysis Dashboard.jpg)
